@@ -1,2 +1,2 @@
 # Web-Scraping
-web Scraping Breaking Bad
+Projeto pessoal de Web Scraping da série Breaking Bad
